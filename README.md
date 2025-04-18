@@ -10,3 +10,11 @@
 SyllasO/SyllasO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+   #TECHNICAL SKILLS 
+
+Java Development
+Python Programming
+R Programming
+Data Visualization (Matplotlib)
+MySQL Database Management
+Clinical Data Management
